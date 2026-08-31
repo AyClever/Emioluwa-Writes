@@ -1,0 +1,6 @@
+{
+  "name": "Emioluwa Writes",
+  "description": "The online writing space and personal brand of Emioluwa, a young Nigerian writer. Words that connect. Stories that stay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

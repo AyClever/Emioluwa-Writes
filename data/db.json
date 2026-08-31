@@ -1,0 +1,49 @@
+{
+  "admin": {
+    "id": "admin-1",
+    "email": "lifeofgod2912@gmail.com",
+    "passwordHash": "$2b$10$vF4W8OgHc77AmocyEPcNwuo3XlnHUmurNjxpdmGqHVSCyz0TutyJi",
+    "name": "Emioluwa",
+    "bio": "Young Nigerian writer, essayist, and student crafting words that connect and stories that stay."
+  },
+  "categories": [
+    {
+      "id": "cat-1",
+      "name": "Student Life",
+      "slug": "student-life",
+      "description": "Reflections from lecture halls, hostel corridors, exams, and the messy beauty of school."
+    },
+    {
+      "id": "cat-2",
+      "name": "Personal Growth",
+      "slug": "personal-growth",
+      "description": "Lessons on patience, discipline, navigating setbacks, and building character in your twenties."
+    },
+    {
+      "id": "cat-3",
+      "name": "Self-Discovery",
+      "slug": "self-discovery",
+      "description": "Unravelling identity, finding your voice, understanding your inner compass, and gentle honesty."
+    },
+    {
+      "id": "cat-4",
+      "name": "Life Experiences",
+      "slug": "life-experiences",
+      "description": "Moments from Lagos to Ibadan, rainy mornings, family dinners, and ordinary days turned into essays."
+    },
+    {
+      "id": "cat-5",
+      "name": "Opinions",
+      "slug": "opinions",
+      "description": "Thoughtful perspectives on modern culture, reading habits, friendship dynamics, and youthful ambition."
+    },
+    {
+      "id": "cat-6",
+      "name": "Creative Writing",
+      "slug": "creative-writing",
+      "description": "Short stories, poetic prose, vignettes, and narratives crafted with heart and imagery."
+    }
+  ],
+  "articles": [],
+  "messages": []
+}
